@@ -1,6 +1,6 @@
-# Blank Template
+# Polling workshop template
 
-This is a blank template used to build out automations using the Slack CLI.
+In this polling workshop template the folders and blank files have already been created.
 
 **Guide Outline**:
 
@@ -37,7 +37,7 @@ Start by cloning this repository:
 
 ```zsh
 # Clone this project onto your machine
-$ slack create my-app -t slack-samples/deno-blank-template
+$ slack create my-app -t peoplesj/polling-workshop-template
 
 # Change into the project directory
 $ cd my-app
